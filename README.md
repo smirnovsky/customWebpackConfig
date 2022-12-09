@@ -1,3 +1,3 @@
 # modesto
 
-https://smirnovsky.github.io/modesto/
+https://smirnovsky.github.io/modesto
